@@ -13,7 +13,7 @@ SNAKE_COLOR = (17, 168, 79)
 FOOD_COLOR = (219, 50, 54)
 BG_COLOR = (30, 30, 30)
 GRID_COLOR = (40, 40, 40)
-TEXT_COLOR = (240, 240, 240)
+TEXT_COLOR = (240, 240, 300)
 
 # Directions
 UP = (0, -1)
@@ -189,3 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
